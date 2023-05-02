@@ -11,7 +11,7 @@ conda create -n pytest python -y
 
 conda activate pytest
 
-conda install pytest
+conda install --file requirements.txt
 ```
 
 ## Code Explanation
