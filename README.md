@@ -26,6 +26,8 @@ Here's a brief explanation of each file and directory:
     - __init__.py: An empty file that tells Python that the directory should be treated as a package.
     - test_calculator.py: The file containing the pytest unit tests for the Calculator class.
 
+## Run All Tests
+
 You can run all tests from the cli with:
 
 ```sh
